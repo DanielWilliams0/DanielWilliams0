@@ -10,4 +10,4 @@ Skills: PYTHON / HTML / JAVA
  - ⚡ Fun fact: I started coding when I was 15 because of my passion for video games! 
 -  Pronouns: He/Him
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ DanielWilliams0)  
+https://github.com/DanielWilliams0 
