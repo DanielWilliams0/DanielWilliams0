@@ -6,6 +6,6 @@ My name is Daniel Williams, and I am a recent graduate! I earned my degree in In
 
 - 📖 I’m currently learning game devlopment and web design
 - 📫 How to reach me: danielw9104@gmail.com 
- - ⚡ Fun fact: I started coding when I was 15 because of my passion for video games! 
+ - ⚡ Fun fact: I started coding because of my passion for video games! 
 
 https://github.com/DanielWilliams0 
